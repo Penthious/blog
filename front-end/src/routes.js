@@ -1,0 +1,16 @@
+export default {
+    deleteUser: "/user/delete",
+    home: "/",
+    login: "/login",
+    logout: "/logout",
+    register: "/register",
+    businessCreate: "/business/create",
+    businessAccountsCreate: "/business/accounts/create",
+    businessSubscription: "/business/subscription",
+    dashboard: "/dashboard",
+    feedback: "/feedback",
+    emails: "/emails",
+    accountDetails: "/account-details",
+    sentHistory: "/sent-history",
+    notFound: "*",
+};
